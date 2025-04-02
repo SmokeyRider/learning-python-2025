@@ -19,11 +19,5 @@ A script that prints the multiplication table for the number 9. This script is a
 ### `Jupyter_nb.ipynb`
 A Jupyter Notebook containing examples and experiments with Python code. This notebook is used for interactive learning and exploring Python concepts.
 
-### Codespaces Configuration
-This repository is pre-configured to work seamlessly with GitHub Codespaces.
-
-### Setting up a virtual Python environment 
-Setting up a virtual Python environment is a good idea if not running in Codespaces. Here are the steps to set it up in PowerShell:
-```powershell
-python -m venv myenv
-myenv\scripts\activate
+### Codespaces/Dev Container Configuration
+This repository is pre-configured to work seamlessly with Dev Containers & GitHub Codespaces.
