@@ -10,14 +10,22 @@ This repository contains various Python scripts created while learning Python.
 ### `cars.py`
 A script for experimenting with Python object manipulation. It includes examples of working with classes, objects, and methods.
 
-### `categorizer.py`
-A script that reads a file containing a list of grocery items and categorizes them using hardcoded values. This script is based on a YouTube tutorial and demonstrates basic file handling and categorization.
-
 ### `nines.py`
 A script that prints the multiplication table for the number 9. This script is a simple demonstration of loops and basic arithmetic in Python.
+
+### `joy_score.ipynb`
+A Jupyter Notebook focused on data visualization using matplotlib and numpy libraries.
 
 ### `Jupyter_nb.ipynb`
 A Jupyter Notebook containing examples and experiments with Python code. This notebook is used for interactive learning and exploring Python concepts.
 
-### Codespaces/Dev Container Configuration
-This repository is pre-configured to work seamlessly with Dev Containers & GitHub Codespaces.
+### `Fix_Jupyter_NB.md`
+Documentation on how to resolve git line-ending issues when working with Jupyter notebooks.
+
+### Development Environment
+
+#### `requirements.txt`
+Lists all Python dependencies including matplotlib, numpy, pandas, and other libraries needed for the project.
+
+#### Codespaces/Dev Container Configuration
+This repository is pre-configured to work seamlessly with Dev Containers & GitHub Codespaces using configurations in the `.devcontainer` directory.

@@ -1,11 +1,6 @@
 matplotlib
 numpy
 ipykernel
-openai
-azure-identity
-python-dotenv
 pandas
-ollama
-colorama
-flask
+seaborn
 markdown
