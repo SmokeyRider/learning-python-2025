@@ -18,4 +18,4 @@ FROM mcr.microsoft.com/devcontainers/python:3.12-bookworm
 # Clean up to reduce image size
 #RUN apt-get clean && rm -rf /var/lib/apt/lists/*
 
-CMD ["ollama", "serve"]
+# CMD ["ollama", "serve"]
